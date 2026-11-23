@@ -1,0 +1,547 @@
+[
+  {
+    "slug": "face-scan-clock-in",
+    "title": "Clock in with Face Scan",
+    "subtitle": "Time in, break and time out in a few seconds",
+    "who": "Every employee",
+    "outro": "Your time is recorded.",
+    "steps": [
+      {
+        "img": "2-yours-daily-employee-loop/2.1-yours-tab/not-clocked-in.png",
+        "caption": "Tap Face Scan",
+        "detail": "It's the round button in the middle of the bottom bar. You can also tap Clock-In/Out."
+      },
+      {
+        "img": "6-face-scan-flagship/step-1-face-scan.png",
+        "caption": "Wait a moment while Paylalo gets ready",
+        "detail": "It checks your work area, your registered face, the camera and the connection."
+      },
+      {
+        "img": "6-face-scan-flagship/step-2-face-scan.png",
+        "caption": "Tap the punch you need",
+        "detail": "Clock In, Break Out, Break In or Clock Out. The next one is already picked for you."
+      },
+      {
+        "img": "6-face-scan-flagship/step-3-face-scan.png",
+        "caption": "Centre your face and tap Capture",
+        "detail": "Hold the phone at eye level in good light."
+      },
+      {
+        "img": "6-face-scan-flagship/step-5-face-scan.png",
+        "caption": "Follow the on-screen prompts",
+        "detail": "Turn your head or blink when asked. A photo or video can't pass this check."
+      },
+      {
+        "img": "2-yours-daily-employee-loop/2.2-clock-in-out-receipt/success-receipt.png",
+        "caption": "Done. Your punch is saved",
+        "detail": "You'll see the time and where it was recorded. Tap Done."
+      }
+    ]
+  },
+  {
+    "slug": "register-your-face",
+    "title": "Register your face",
+    "subtitle": "Do this once so Face Scan knows it's you",
+    "who": "Every employee",
+    "outro": "You're ready for Face Scan.",
+    "steps": [
+      {
+        "img": "8-cross-cutting/8.2-profile-hub/index-1.png",
+        "caption": "Open Profile, tap Face Recognition",
+        "detail": "Profile is the last button on the bottom bar."
+      },
+      {
+        "img": "8-cross-cutting/8.2-profile-hub/face-recognition/index-1-(no-face-registered).png",
+        "caption": "Tap Register face",
+        "detail": "Read the biometric consent, tick the box and tap Agree & continue. Then take a clear photo in good light."
+      },
+      {
+        "img": "4-monitoring/4.1-approvals-queue/face-reg-(new-enrolment-before).png",
+        "caption": "Wait for approval",
+        "detail": "An owner, admin or manager checks your photo. Owners and admins don't need to wait."
+      },
+      {
+        "img": "8-cross-cutting/8.2-profile-hub/face-recognition/index-1-(approved-consent).png",
+        "caption": "Your face is enrolled",
+        "detail": "Now you can clock in with Face Scan. Tap Re-register any time to update your photo."
+      }
+    ]
+  },
+  {
+    "slug": "file-a-request",
+    "title": "File a request",
+    "subtitle": "Leave, overtime, undertime, time fix, holiday and rest-day work",
+    "who": "Every employee",
+    "outro": "Your request is on its way.",
+    "steps": [
+      {
+        "img": "2-yours-daily-employee-loop/2.4-requests-(list+gates)/employee/regular-yours-request.png",
+        "caption": "Tap Requests, then Add",
+        "detail": "Pick the request you need. You only see the types your company allows for you."
+      },
+      {
+        "img": "2-yours-daily-employee-loop/2.5-request-forms/request-leave-1.png",
+        "caption": "Leave: pick the type and dates",
+        "detail": "Read the filing rules at the top first. Your leave credits are shown above them."
+      },
+      {
+        "img": "2-yours-daily-employee-loop/2.5-request-forms/request-leave-2.png",
+        "caption": "Add a reason, then tap Submit",
+        "detail": "Attach photos if you have them, like a medical certificate."
+      },
+      {
+        "img": "2-yours-daily-employee-loop/2.5-request-forms/request-overtime-1.png",
+        "caption": "Overtime: set the date and times",
+        "detail": "Choose Pre-Shift OT or Post-Shift OT. Overtime is paid only once it's approved."
+      },
+      {
+        "img": "2-yours-daily-employee-loop/2.5-request-forms/request-timefix-1.png",
+        "caption": "Time Fix: pick what to correct",
+        "detail": "Clock In, Clock Out, Both, or Missed Entry if you forgot to punch. Then enter the right times."
+      },
+      {
+        "img": "2-yours-daily-employee-loop/2.5-request-forms/request-holiday-or-rest-day.png",
+        "caption": "Holiday Work: pick the holiday",
+        "detail": "Set the date and start time, add a reason and tap Submit Request."
+      }
+    ]
+  },
+  {
+    "slug": "approve-requests",
+    "title": "Approve or reject requests",
+    "subtitle": "Handle your team's requests in one place",
+    "who": "Owner, Admin, Manager",
+    "outro": "Your team gets an answer right away.",
+    "steps": [
+      {
+        "img": "4-monitoring/4.1-approvals-queue/index-1.png",
+        "caption": "Open Monitoring, then Approvals",
+        "detail": "All Pending shows everything waiting. Use the chips to see one type at a time."
+      },
+      {
+        "img": "4-monitoring/4.1-approvals-queue/overtime-modal.png",
+        "caption": "Tap a request to open it",
+        "detail": "Check the date, the time asked for and the reason."
+      },
+      {
+        "img": "4-monitoring/4.1-approvals-queue/approve-request.png",
+        "caption": "Tap Approve, then Approve again",
+        "detail": "You can add a reason for the record. It's optional."
+      },
+      {
+        "img": "4-monitoring/4.1-approvals-queue/reject-request.png",
+        "caption": "Or tap Reject",
+        "detail": "Add a reason so the employee knows why, then tap Reject."
+      },
+      {
+        "img": "4-monitoring/4.1-approvals-queue/approved-request.png",
+        "caption": "Changed your mind? Revert to Pending",
+        "detail": "The request goes back to the queue so you can decide again."
+      }
+    ]
+  },
+  {
+    "slug": "attendance",
+    "title": "Check your attendance",
+    "subtitle": "Your punches, hours, lates and schedule",
+    "who": "Every employee",
+    "outro": "You always know where you stand.",
+    "steps": [
+      {
+        "img": "2-yours-daily-employee-loop/2.3-attendance/attendance-history.png",
+        "caption": "Tap Attendance on Yours",
+        "detail": "See your working days, hours and total lates, then every punch day by day."
+      },
+      {
+        "img": "2-yours-daily-employee-loop/2.3-attendance/attendance-date-drilldown.png",
+        "caption": "Tap the month to change it",
+        "detail": "Pick any month, or All for the whole year."
+      },
+      {
+        "img": "2-yours-daily-employee-loop/2.3-attendance/attendance-my-schedule.png",
+        "caption": "Tap Your Shift",
+        "detail": "See your current schedule, grace period and lunch break for each day."
+      },
+      {
+        "img": "2-yours-daily-employee-loop/2.3-attendance/attendance-your-shift-history.png",
+        "caption": "Scroll for past schedules",
+        "detail": "Custom days are one-off changes for a single date."
+      },
+      {
+        "img": "2-yours-daily-employee-loop/2.5-request-forms/request-timefix-1.png",
+        "caption": "Wrong punch? File a Time Fix",
+        "detail": "Go to Requests, tap Add, then Time Fix. Your manager approves it."
+      }
+    ]
+  },
+  {
+    "slug": "payslip",
+    "title": "View your payslip",
+    "subtitle": "What you earned, what was deducted, what you got",
+    "who": "Every employee",
+    "outro": "Your pay, clearly explained.",
+    "steps": [
+      {
+        "img": "2-yours-daily-employee-loop/2.6-payslip/payslip-year-list.png",
+        "caption": "Tap Payslip on Yours",
+        "detail": "Each pay period shows gross pay, deductions and net pay."
+      },
+      {
+        "img": "2-yours-daily-employee-loop/2.6-payslip/payslip-details-1.png",
+        "caption": "Tap a pay period to open it",
+        "detail": "Earnings come first: basic pay, overtime, holiday premium and add-ons."
+      },
+      {
+        "img": "2-yours-daily-employee-loop/2.6-payslip/payslip-details-2.png",
+        "caption": "Scroll down to your net pay",
+        "detail": "Deductions and loan balances are listed before the final amount."
+      },
+      {
+        "img": "2-yours-daily-employee-loop/2.6-payslip/payslip-ledger-1.png",
+        "caption": "Tap Ledger for regular deductions",
+        "detail": "See SSS, PhilHealth, Pag-IBIG and tax, and when each one is taken."
+      },
+      {
+        "img": "2-yours-daily-employee-loop/2.6-payslip/payslip-ledger-2.png",
+        "caption": "Track your loans to zero",
+        "detail": "Each loan shows the amount per cutoff and what's left to pay."
+      }
+    ]
+  },
+  {
+    "slug": "add-employees",
+    "title": "Add and invite employees",
+    "subtitle": "New people join by QR code or link; existing users by invitation",
+    "who": "Owner, Admin",
+    "outro": "Your team is on Paylalo.",
+    "steps": [
+      {
+        "img": "3-organization (owner-admin-config)/3.2-employees-hub/employees-page-1.png",
+        "caption": "Open Org, then Employees",
+        "detail": "Tap Add at the top of the list."
+      },
+      {
+        "img": "3-organization (owner-admin-config)/3.3-employee-lifecycle/add/add-employee.png",
+        "caption": "Tap + Add and choose",
+        "detail": "New to Paylalo for someone without an account. Already has an account for someone who does."
+      },
+      {
+        "img": "3-organization (owner-admin-config)/3.3-employee-lifecycle/add/add-employee-(create-employee-account).png",
+        "caption": "New person: enter name and email",
+        "detail": "Tap Create login. Paylalo emails them a temporary password to change at first sign-in."
+      },
+      {
+        "img": "3-organization (owner-admin-config)/3.3-employee-lifecycle/add/pending-invitations-created-list.png",
+        "caption": "Find them under Created",
+        "detail": "Open Pending Invitations. New accounts wait here until the person signs in."
+      },
+      {
+        "img": "3-organization (owner-admin-config)/3.3-employee-lifecycle/add/created-card-view-code.png",
+        "caption": "Tap View code to show the QR",
+        "detail": "Ask them to scan it from the Paylalo sign-up screen. The code is valid for 30 days."
+      },
+      {
+        "img": "3-organization (owner-admin-config)/3.3-employee-lifecycle/add/created-card-copy-link.png",
+        "caption": "Or tap Copy link and send it",
+        "detail": "Opening the link joins them to your company. No code to type."
+      },
+      {
+        "img": "3-organization (owner-admin-config)/3.3-employee-lifecycle/add/add-employee-(invite-existing-user).png",
+        "caption": "Has an account? Invite existing user",
+        "detail": "Type their email, phone or account name and tap Send invitation."
+      },
+      {
+        "img": "3-organization (owner-admin-config)/3.2-employees-hub/employee-details/employee-details-page-1.png",
+        "caption": "Finish their setup",
+        "detail": "New people show Needs setup. Open them and fill in Schedule, Location and Pay & benefits."
+      }
+    ]
+  },
+  {
+    "slug": "work-schedules",
+    "title": "Set up work schedules",
+    "subtitle": "Shift times, lunch breaks and who works when",
+    "who": "Owner, Admin",
+    "outro": "Everyone knows their shift.",
+    "steps": [
+      {
+        "img": "3-organization (owner-admin-config)/3.4-schedules/schedules-page-1.png",
+        "caption": "Open Org, then Schedules",
+        "detail": "See every schedule, with its days, times, grace period and lunch break."
+      },
+      {
+        "img": "3-organization (owner-admin-config)/3.4-schedules/add-(new-schedule)-(full-shift)-page-1.png",
+        "caption": "Tap + Add, then New Schedule",
+        "detail": "Name it, pick Full shift or Broken schedule, then choose the working days."
+      },
+      {
+        "img": "3-organization (owner-admin-config)/3.4-schedules/add-(new-schedule)-(full-shift)-page-2.png",
+        "caption": "Set times, then Create Schedule",
+        "detail": "Turn on Allow lunch break if needed. Days you didn't pick are rest days."
+      },
+      {
+        "img": "3-organization (owner-admin-config)/3.4-schedules/assignments-schedules-cards-list.png",
+        "caption": "Tap Assign to open Assignments",
+        "detail": "Each schedule shows how many employees are on it."
+      },
+      {
+        "img": "3-organization (owner-admin-config)/3.4-schedules/assignments-assign-employees.png",
+        "caption": "Tap + Assign and pick employees",
+        "detail": "Choose the schedule and start date, then tap Review Assignment."
+      }
+    ]
+  },
+  {
+    "slug": "work-locations",
+    "title": "Set up work locations",
+    "subtitle": "Where your team is allowed to clock in",
+    "who": "Owner, Admin",
+    "outro": "Clock-ins happen where they should.",
+    "steps": [
+      {
+        "img": "3-organization (owner-admin-config)/3.5-locations-or-geofence/locations-list-page-1.png",
+        "caption": "Open Org, then Locations",
+        "detail": "Tap + Add to create a new work location."
+      },
+      {
+        "img": "3-organization (owner-admin-config)/3.5-locations-or-geofence/add-location-page-1.png",
+        "caption": "Search for the place",
+        "detail": "The pin on the map marks the centre of the work area."
+      },
+      {
+        "img": "3-organization (owner-admin-config)/3.5-locations-or-geofence/add-location-page-2.png",
+        "caption": "Pick a size, name it, Submit",
+        "detail": "Small Shop, Office Building, Office Complex or Campus. You can also set a custom radius."
+      },
+      {
+        "img": "3-organization (owner-admin-config)/3.5-locations-or-geofence/assign-locations-list.png",
+        "caption": "Tap Assign to see who goes where",
+        "detail": "Each location shows how many people are assigned to it."
+      },
+      {
+        "img": "3-organization (owner-admin-config)/3.5-locations-or-geofence/assign-location.png",
+        "caption": "Tap + Assign and pick employees",
+        "detail": "Choose the location and start date, then tap Review Assignment."
+      }
+    ]
+  },
+  {
+    "slug": "payout-schedule",
+    "title": "Set the payout schedule",
+    "subtitle": "When people get paid, and which days each payday covers",
+    "who": "Owner, Admin",
+    "outro": "Paydays are set.",
+    "steps": [
+      {
+        "img": "3-organization (owner-admin-config)/3.6-org-rules-request-center/org-rules-page-2.png",
+        "caption": "Open Org Rules, tap Payout Schedule",
+        "detail": "Org Rules is the first tile on the Org tab."
+      },
+      {
+        "img": "3-organization (owner-admin-config)/3.7-org-rules-payout-sched/index.png",
+        "caption": "Tap + Add payout schedule",
+        "detail": "This is the source of truth for every pay run."
+      },
+      {
+        "img": "3-organization (owner-admin-config)/3.7-org-rules-payout-sched/pay-frequency/semi-monthly/page-1-(on-smart-month-end).png",
+        "caption": "Name it, pick the pay frequency",
+        "detail": "Then set the days each payout covers and the day people are paid."
+      },
+      {
+        "img": "3-organization (owner-admin-config)/3.7-org-rules-payout-sched/pay-frequency/semi-monthly/page-2-(on-smart-month-end).png",
+        "caption": "Set when it starts",
+        "detail": "Choose the first payday, what happens on weekends or holidays, and the filing cut-off."
+      },
+      {
+        "img": "3-organization (owner-admin-config)/3.7-org-rules-payout-sched/pay-frequency/semi-monthly/page-3-(allow-deduct-gov-contributions).png",
+        "caption": "Pick when contributions are deducted",
+        "detail": "Choose SSS, PhilHealth, Pag-IBIG and Tax under each payout."
+      },
+      {
+        "img": "3-organization (owner-admin-config)/3.7-org-rules-payout-sched/pay-frequency/create-payout-sched-confirmation.png",
+        "caption": "Tap Create payout schedule",
+        "detail": "Then tap Create to confirm."
+      }
+    ]
+  },
+  {
+    "slug": "deduction-rules",
+    "title": "Set deduction rules",
+    "subtitle": "Lates, government contributions and loans",
+    "who": "Owner, Admin",
+    "outro": "Deductions are handled for you.",
+    "steps": [
+      {
+        "img": "3-organization (owner-admin-config)/3.6-org-rules-request-center/org-rules-page-2.png",
+        "caption": "Open Org Rules, tap Deduction Rules",
+        "detail": "It has three tabs: Lates, Government and Ledger."
+      },
+      {
+        "img": "3-organization (owner-admin-config)/3.8-org-rules-deduction-rules/lates/index-(on-deduct-for-lates).png",
+        "caption": "Lates: set the late charge",
+        "detail": "Turn on Deduct for lates and set the rate per minute late."
+      },
+      {
+        "img": "3-organization (owner-admin-config)/3.8-org-rules-deduction-rules/government/index-1.png",
+        "caption": "Government: check contributions",
+        "detail": "SSS, PhilHealth, Pag-IBIG and withholding tax, based on the monthly basic salary."
+      },
+      {
+        "img": "3-organization (owner-admin-config)/3.8-org-rules-deduction-rules/ledger/index.png",
+        "caption": "Ledger: loans and other deductions",
+        "detail": "Active items are deducted every payday."
+      },
+      {
+        "img": "3-organization (owner-admin-config)/3.8-org-rules-deduction-rules/lates/lates-save-rules.png",
+        "caption": "Tap Save rules, choose when",
+        "detail": "Effective next payday, or Reflect on the open payroll. Then tap Confirm."
+      }
+    ]
+  },
+  {
+    "slug": "run-payroll",
+    "title": "Run payroll",
+    "subtitle": "From timesheet to finished payslips",
+    "who": "Owner, Admin",
+    "outro": "Payslips are ready.",
+    "steps": [
+      {
+        "img": "5-payroll (owner-admin)/5.1-run-payroll/index-1-(default).png",
+        "caption": "Open Payroll, then Run Payroll",
+        "detail": "Read the checklist first: timesheet, deductions and add-ons must be final."
+      },
+      {
+        "img": "5-payroll (owner-admin)/5.1-run-payroll/who-to-include-(by-team).png",
+        "caption": "Pick the schedule and who to include",
+        "detail": "Choose By type, By team or Manual, then tap Calculate."
+      },
+      {
+        "img": "5-payroll (owner-admin)/5.1-run-payroll/click-calculate-button/step-1-review-timesheet.png",
+        "caption": "Check the timesheet",
+        "detail": "Unapproved requests aren't counted. Tap Timesheet is correct."
+      },
+      {
+        "img": "5-payroll (owner-admin)/5.1-run-payroll/click-calculate-button/step-3-before-calculate.png",
+        "caption": "Check deductions, tap Continue",
+        "detail": "Government contributions and loan installments for this run."
+      },
+      {
+        "img": "5-payroll (owner-admin)/5.1-run-payroll/click-calculate-button/step-4-approved-adjustments.png",
+        "caption": "Review adjustments, tap Calculate",
+        "detail": "Only approved add-ons and deductions are included."
+      },
+      {
+        "img": "5-payroll (owner-admin)/5.1-run-payroll/index-1-(finalize).png",
+        "caption": "Check the totals and payslips",
+        "detail": "Owners tap Finalize. Admins tap Submit for Approval instead."
+      },
+      {
+        "img": "5-payroll (owner-admin)/5.1-run-payroll/finalize-payroll-modal.png",
+        "caption": "Tap Finalize to lock it",
+        "detail": "A finalized run can't be changed, so check everything first."
+      }
+    ]
+  },
+  {
+    "slug": "monitor-team",
+    "title": "Monitor your team",
+    "subtitle": "Timesheet, photo checks and weekly reports",
+    "who": "Owner, Admin, Manager",
+    "outro": "You know how your team is doing.",
+    "steps": [
+      {
+        "img": "4-monitoring/4.2-timesheet/index.png",
+        "caption": "Open Monitoring, then Timesheet",
+        "detail": "See days present, total lates and days absent for the date range."
+      },
+      {
+        "img": "4-monitoring/4.2-timesheet/index-2.png",
+        "caption": "Tap a name to see each day",
+        "detail": "Change the dates at the top. The download button exports the timesheet."
+      },
+      {
+        "img": "4-monitoring/4.2-timesheet/photo-check.png",
+        "caption": "Open Photo Check",
+        "detail": "Compare each clock-in and clock-out photo with the registered face."
+      },
+      {
+        "img": "4-monitoring/4.4-weekly-reports/weekly-reports-index1-page.png",
+        "caption": "Open Weekly Reports",
+        "detail": "See this week's tardy days, absences and approved leave at a glance."
+      },
+      {
+        "img": "4-monitoring/4.4-weekly-reports/weekly-reports-index2-page.png",
+        "caption": "Find who needs attention",
+        "detail": "Each person gets a score: Action Required, At Risk, On Track or Elite."
+      }
+    ]
+  },
+  {
+    "slug": "inbox",
+    "title": "Check your inbox",
+    "subtitle": "Approvals, payslips and reminders in one place",
+    "who": "Everyone",
+    "outro": "You won't miss a thing.",
+    "steps": [
+      {
+        "img": "8-cross-cutting/8.1-inbox/inbox-all.png",
+        "caption": "Tap Inbox in the bottom bar",
+        "detail": "New items have a dot. The badge shows how many are unread."
+      },
+      {
+        "img": "8-cross-cutting/8.1-inbox/inbox-requests.png",
+        "caption": "Use the tabs to filter",
+        "detail": "All, Requests, Payroll or Reminders."
+      },
+      {
+        "img": "8-cross-cutting/8.1-inbox/inbox-payroll.png",
+        "caption": "Tap Mark all as read",
+        "detail": "Or use Unread and Read to show only some items."
+      },
+      {
+        "img": "8-cross-cutting/8.1-inbox/notification-settings.png",
+        "caption": "Choose what alerts you get",
+        "detail": "Tap the settings icon next to Mark all as read. Turn each type on or off."
+      }
+    ]
+  },
+  {
+    "slug": "profile-security",
+    "title": "Profile, password and security",
+    "subtitle": "Keep your details and your account safe",
+    "who": "Everyone",
+    "outro": "Your account is up to date.",
+    "steps": [
+      {
+        "img": "8-cross-cutting/8.2-profile-hub/index-1.png",
+        "caption": "Tap Profile in the bottom bar",
+        "detail": "All your personal settings are here."
+      },
+      {
+        "img": "8-cross-cutting/8.2-profile-hub/profile-details/index-1.png",
+        "caption": "Tap Profile details to edit",
+        "detail": "Change your photo, mobile number or address. Your employer sets your pay and schedule."
+      },
+      {
+        "img": "8-cross-cutting/8.2-profile-hub/index-2.png",
+        "caption": "Tap Password & Security",
+        "detail": "It's under Account settings."
+      },
+      {
+        "img": "8-cross-cutting/8.2-profile-hub/password-&-security/index-1.png",
+        "caption": "Pick what to change",
+        "detail": "Forgot your password or MPIN? Tap Forgot and enter the 6-digit code we email you."
+      },
+      {
+        "img": "8-cross-cutting/8.2-profile-hub/password-&-security/change-password.png",
+        "caption": "Fill in all three, Update password",
+        "detail": "Change MPIN works the same way, with a 4-digit code."
+      },
+      {
+        "img": "8-cross-cutting/8.2-profile-hub/password-&-security/index-2.png",
+        "caption": "Check your devices and sessions",
+        "detail": "Don't recognise one? Tap Unlink or Sign out."
+      }
+    ]
+  }
+]

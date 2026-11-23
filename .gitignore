@@ -1,0 +1,11 @@
+# Regenerable or large build inputs; the site needs only index.html, site/, thumbs/ and the MP4s.
+_source/tts/
+_source/assets/
+_source/node_modules/
+_source/.hyperframes/
+_source/renders/
+_source/*.log
+_source/features/
+*.log
+desktop.ini
+.DS_Store
